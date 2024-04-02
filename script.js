@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
     // Sample categories
-    const categories = ['Agriculture & Cooperation', 'Category 2', 'Category 3', 'Category 4'];
+    const categories = ['Uttar Pradesh', 'Category 2', 'Category 3', 'Category 4'];
 
     // Sample links for each category with associated URLs
     const categoryLinks = {
