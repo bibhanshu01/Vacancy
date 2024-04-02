@@ -4,8 +4,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Sample links for each category with associated URLs
     const categoryLinks = {
-        'Agriculture & Cooperation': [
-            { name: 'AGRISNET - Department of Agriculture, Chennai, Tamilnadu', url: 'https://www.tnagrisnet.tn.gov.in/home/index/en' },
+        'Uttar Pradesh': [
+            { name: 'UNION PUBLIC SERVICE COMMISSION', url: 'https://upsc.gov.in/' },
             { name: 'AGRISNET, Odisha - Agricultural Resources Information System Network', url: 'https://agrisnetodisha.ori.nic.in/' },
             { name: 'Academic Management System, AMS-IVRI', url: 'https://amsivri.icar.gov.in/' },
             { name: 'Academic Management System, AMS-NDRI', url: 'https://amsndri.icar.gov.in/HomePage.aspx' },
